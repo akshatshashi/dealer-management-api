@@ -1,0 +1,11 @@
+com\example\dealerapi\entity\Dealer.class
+com\example\dealerapi\repository\VehicleRepository.class
+com\example\dealerapi\controller\VehicleController.class
+com\example\dealerapi\entity\Dealer$SubscriptionType.class
+com\example\dealerapi\DealerApiApplication.class
+com\example\dealerapi\service\VehicleService.class
+com\example\dealerapi\entity\Vehicle.class
+com\example\dealerapi\entity\Vehicle$Status.class
+com\example\dealerapi\controller\DealerController.class
+com\example\dealerapi\repository\DealerRepository.class
+com\example\dealerapi\service\DealerService.class
